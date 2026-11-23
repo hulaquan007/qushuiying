@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">去水印</string>
+    <string name="open_image">选择图片</string>
+    <string name="clear_mask">清除涂抹</string>
+    <string name="erase">去除</string>
+    <string name="save">保存</string>
+    <string name="brush_size">笔刷大小</string>
+    <string name="hint_paint">用手指涂抹要去除的水印区域,然后点击“去除”</string>
+    <string name="no_image">请先选择图片</string>
+    <string name="no_mask">请先涂抹水印区域</string>
+    <string name="processing">处理中…</string>
+    <string name="saved">已保存到 图片/WatermarkEraser</string>
+    <string name="save_failed">保存失败</string>
+    <string name="load_failed">无法打开该图片</string>
+</resources>
